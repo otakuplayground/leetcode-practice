@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0182-duplicate-emails](https://github.com/otakuplayground/leetcode-practice/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/otakuplayground/leetcode-practice/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/otakuplayground/leetcode-practice/tree/main/0184-department-highest-salary/) | Medium |
+| [0185-department-top-three-salaries](https://github.com/otakuplayground/leetcode-practice/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0577-employee-bonus](https://github.com/otakuplayground/leetcode-practice/tree/main/0577-employee-bonus/) | Easy |
 | [0610-triangle-judgement](https://github.com/otakuplayground/leetcode-practice/tree/main/0610-triangle-judgement/) | Easy |
 <!---LeetCode Topics End-->
