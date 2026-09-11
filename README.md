@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0185-department-top-three-salaries](https://github.com/otakuplayground/leetcode-practice/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/otakuplayground/leetcode-practice/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/otakuplayground/leetcode-practice/tree/main/0197-rising-temperature/) | Easy |
+| [0511-game-play-analysis-i](https://github.com/otakuplayground/leetcode-practice/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/otakuplayground/leetcode-practice/tree/main/0577-employee-bonus/) | Easy |
 | [0610-triangle-judgement](https://github.com/otakuplayground/leetcode-practice/tree/main/0610-triangle-judgement/) | Easy |
 <!---LeetCode Topics End-->
