@@ -23,4 +23,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0584-find-customer-referee](https://github.com/otakuplayground/leetcode-practice/tree/main/0584-find-customer-referee/) | Easy |
 | [0610-triangle-judgement](https://github.com/otakuplayground/leetcode-practice/tree/main/0610-triangle-judgement/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/otakuplayground/leetcode-practice/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/otakuplayground/leetcode-practice/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/otakuplayground/leetcode-practice/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
