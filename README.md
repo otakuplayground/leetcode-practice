@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/otakuplayground/leetcode-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/otakuplayground/leetcode-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0006-zigzag-conversion](https://github.com/otakuplayground/leetcode-practice/tree/main/0006-zigzag-conversion/) | Medium |
 | [0022-generate-parentheses](https://github.com/otakuplayground/leetcode-practice/tree/main/0022-generate-parentheses/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
