@@ -39,11 +39,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/otakuplayground/leetcode-practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/otakuplayground/leetcode-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/otakuplayground/leetcode-practice/tree/main/0006-zigzag-conversion/) | Medium |
+| [0010-regular-expression-matching](https://github.com/otakuplayground/leetcode-practice/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/otakuplayground/leetcode-practice/tree/main/0022-generate-parentheses/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/otakuplayground/leetcode-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/otakuplayground/leetcode-practice/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/otakuplayground/leetcode-practice/tree/main/0022-generate-parentheses/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/otakuplayground/leetcode-practice/tree/main/0002-add-two-numbers/) | Medium |
+| [0010-regular-expression-matching](https://github.com/otakuplayground/leetcode-practice/tree/main/0010-regular-expression-matching/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
